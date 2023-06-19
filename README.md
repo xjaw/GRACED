@@ -1,0 +1,2 @@
+# GRACED_boosting_adaptive_graph_augmented_MLPs_via_customized_knowledge_distillation
+Boosting Adaptive Graph Augmented MLPs via Customized Knowledge Distillation, ECML/PKDD 2023
